@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+langchain
+langchain_community
+langchain_groq
+langchain-ollama
+faiss-cpu
+sentence_transformers
+openpyxl
+pypdf
